@@ -1,10 +1,6 @@
-# NightFlix
+#  NightFlix
 
 <a name="readme-top"></a>
-
-<div align="center">
-  <h3><b>NightFlix</b></h3>
-</div>
 
 # 📗 Table of Contents
 
