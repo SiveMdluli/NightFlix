@@ -4,7 +4,7 @@ import MovieCard from './MovieCard.jsx';
 
 import './App.css';
 
-const API_URL = 'http://www.omdbapi.com/?apikey=ea2f2c12';
+const API_URL = 'https://www.omdbapi.com/?apikey=ea2f2c12';
 
 const App = () => {
   // Creating a new state to move the code from the console log to them actually being rendered.
