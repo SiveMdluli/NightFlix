@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import MovieCard from './MovieCard';
+import MovieCard from './MovieCard.jsx';
 
 import './App.css';
 
